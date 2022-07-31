@@ -8,6 +8,6 @@ Hey! My name is Alan Srida, or you can call me Alan. I love computers and coding
 - ♦️ I’m currently studying in high school and I will graduate in 2025.
 - ♟️ I’m currently learning Software Engineering, Web Developing and more!
 
-![Alan Srida]file:///C:/Users/Arany/Downloads/IMG_8993.JPG
+![Alan Srida](file:///C:/Users/Arany/Downloads/IMG_8993.JPG)
 
-- 📫 Here is how to reach me: https://b4i4gsthis-bio.netlify.app/
+- 📫 Here is how to reach me: https://b4i4gsthis-b)io.netlify.app/
