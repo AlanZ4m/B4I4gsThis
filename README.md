@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi lads! Welcome to my profile 👋
 
-<!--
-**B4I4gsThis/B4I4gsThis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [Thai]
+สวัสดีครับ ผมคือ อลัน สีดา หรือว่าอลัน ผมเป็นอีกหนึ่งคนในโลกนี้ที่ชื่นชอบในคอมพิวเตอร์และการโค้ดดิ้ง ผมไม่เก่งคณิตศาสตร์แต่ว่าผมชอบและรักในการแก้ปัญหามาก ๆ ครับ😎
+### [English]
+Hey! My name is Alan Srida, or you can call me Alan. I love computers and coding. It's my whole life. I'm not good at mathematics, though I love solving problems.😎
 
-Here are some ideas to get you started:
+- ♦️ I’m currently studying in high school and I will graduate in 2025.
+- ♟️ I’m currently learning Software Engineering, Web Developing and more!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Alan Srida]file:///C:/Users/Arany/Downloads/IMG_8993.JPG
+
+- 📫 Here is how to reach me: https://b4i4gsthis-bio.netlify.app/
